@@ -48,7 +48,7 @@ BND 分为两个系列，BND1 和 BND2，下面分别进行介绍。
 
 ### 编译
 
-1. 安装 golang 环境
+1. 安 golang 环境
 2. 项目目录 $GOPATH/src/github.com/b3log/bnd （不支持 Go Modules）
 3. 参考[这里](https://github.com/andlabs/libui)编译 UI 库
 4. 不支持交叉编译，只能在目标平台上编译
